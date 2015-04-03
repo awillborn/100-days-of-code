@@ -1,2 +1,2 @@
-# 100-days-of-javascript
-100 days of JS animations for The 100 Days Project: https://thegreatdiscontent.com/100days
+# 100 days of code
+100 days of coding for The 100 Days Project: https://thegreatdiscontent.com/100days
